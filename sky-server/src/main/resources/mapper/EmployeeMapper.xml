@@ -20,7 +20,7 @@
                 name = #{name},
             </if>
             <if test="username != null">
-                user_name = #{userName},
+                username = #{username},
             </if>
             <if test="password != null">
                 password = #{password},
